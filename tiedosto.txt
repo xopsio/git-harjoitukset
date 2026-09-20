@@ -1,2 +1,3 @@
 Gitin perusharjoitukset
 Muutos tehty harjoitus-3 branchissa
+Harjoitus 6 Pull Request
